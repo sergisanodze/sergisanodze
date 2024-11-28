@@ -1,5 +1,5 @@
 ## Hi there 👋
-![fofane's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergisanodze&show_icons=true&theme=radical)
+![Sergi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergisanodze&show_icons=true&theme=radical)
 <!--
 **sergisanodze/sergisanodze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
