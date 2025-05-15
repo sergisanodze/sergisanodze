@@ -1,6 +1,6 @@
 ## Hi there 👋
-![Sergi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sir_Yoga&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sir_Yoga&theme=radical&size_height=1&count_weight=0.5)
+![Sergi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergisanodze&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergisanodze&theme=radical&size_height=1&count_weight=0.5)
 
 <!--
 **sergisanodze/sergisanodze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
